@@ -1,0 +1,16 @@
+# Build output
+cart
+test_cart
+bench
+*.o
+*.exe
+
+# Dữ liệu chạy thử
+cart.txt
+orders.txt
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
